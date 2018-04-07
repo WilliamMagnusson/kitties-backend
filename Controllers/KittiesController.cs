@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Kitties.Models;
 using Microsoft.AspNetCore.Mvc;
+using Faker;
 
 namespace Kitties.Controllers
 {
@@ -26,22 +27,6 @@ namespace Kitties.Controllers
                     Pattern = Pattern.jaguar,
                     Mouth = Mouth.gerbil,
                     Eye = Eye.otaku
-                });
-                kittyContext.KittyItems.Add(new Kitty {
-                    Id = Guid.NewGuid().ToString(),
-                    Name = "Lars2",
-                    Body = Body.chartreux,
-                    Pattern = Pattern.jaguar,
-                    Mouth = Mouth.pouty,
-                    Eye = Eye.googly
-                });
-                kittyContext.KittyItems.Add(new Kitty {
-                    Id = Guid.NewGuid().ToString(),
-                    Name = "Lars3",
-                    Body = Body.chartreux,
-                    Pattern = Pattern.totesbasic,
-                    Mouth = Mouth.dali,
-                    Eye = Eye.fabulous
                 });
                 kittyContext.SaveChanges();
             }
@@ -67,30 +52,30 @@ namespace Kitties.Controllers
             result.StatusCode = 200;
             return result;
         }
-
         
+        // public IActionResult Create([FromBody]string body, [FromBody]string pattern, 
+        // [FromBody]string mouth, [FromBody]string eye)
         [HttpPost]
-        public void Create([FromBody]Body body, [FromBody]Pattern pattern, 
-        [FromBody]Mouth mouth, [FromBody]Eye eye)
+        public IActionResult Create([FromBody] Kitty kitten)
         {
             //Genera namn och id
             string id = Guid.NewGuid().ToString();
 
-
             var kitty = new Kitty {
                 Id = id,
-                Name = "Lars",
-                Body = body,
-                Pattern = pattern,
-                Mouth = mouth,
-                Eye = eye
+                Name = NameFaker.Name(),
+                Body = kitten.Body,
+                Pattern = kitten.Pattern,
+                Mouth = kitten.Mouth,
+                Eye = kitten.Eye
             };
 
-
             kittyContext.KittyItems.Add(kitty);
+            kittyContext.SaveChanges();
 
-
-
+            var result = new ObjectResult(kitty);
+            result.StatusCode = 201;
+            return result;
         }
     }
 }

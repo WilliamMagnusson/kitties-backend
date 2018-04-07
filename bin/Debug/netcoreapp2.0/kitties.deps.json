@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.0",
-    "signature": "86a062ac6f695f109b50d8949c1e6b958f65bfbe"
+    "signature": "7e8706d64edbd71e16edfb968eda299f62ed950d"
   },
   "compilationOptions": {
     "defines": [
@@ -23,6 +23,7 @@
     ".NETCoreApp,Version=v2.0": {
       "kitties/1.0.0": {
         "dependencies": {
+          "Faker": "1.2.0",
           "Microsoft.AspNetCore.All": "2.0.6",
           "Microsoft.NETCore.App": "2.0.0"
         },
@@ -31,6 +32,14 @@
         },
         "compile": {
           "kitties.dll": {}
+        }
+      },
+      "Faker/1.2.0": {
+        "runtime": {
+          "lib/Faker.dll": {}
+        },
+        "compile": {
+          "lib/Faker.dll": {}
         }
       },
       "Libuv/1.10.0": {
@@ -3977,6 +3986,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Faker/1.2.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FvYt17xHV8R0DGb3O5scLtiWK8RrBuG0feDAWuzdM1l1bS62JOuhNgf4BgJthGFYZrEMKoU5XgCODLtXpS0cvw==",
+      "path": "faker/1.2.0",
+      "hashPath": "faker.1.2.0.nupkg.sha512"
     },
     "Libuv/1.10.0": {
       "type": "package",

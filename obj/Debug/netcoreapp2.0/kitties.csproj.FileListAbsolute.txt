@@ -20,3 +20,14 @@ C:\Users\William Magnusson\Desktop\kod\Kitty Projekt\backend\obj\Debug\netcoreap
 C:\Users\William Magnusson\Desktop\kod\Kitty Projekt\backend\obj\Debug\netcoreapp2.0\kitties.AssemblyInfo.cs
 C:\Users\William Magnusson\Desktop\kod\Kitty Projekt\backend\obj\Debug\netcoreapp2.0\kitties.dll
 C:\Users\William Magnusson\Desktop\kod\Kitty Projekt\backend\obj\Debug\netcoreapp2.0\kitties.pdb
+C:\Users\Jacob\Desktop\kitties-backend\bin\Debug\netcoreapp2.0\kitties.deps.json
+C:\Users\Jacob\Desktop\kitties-backend\bin\Debug\netcoreapp2.0\kitties.runtimeconfig.json
+C:\Users\Jacob\Desktop\kitties-backend\bin\Debug\netcoreapp2.0\kitties.runtimeconfig.dev.json
+C:\Users\Jacob\Desktop\kitties-backend\bin\Debug\netcoreapp2.0\kitties.dll
+C:\Users\Jacob\Desktop\kitties-backend\bin\Debug\netcoreapp2.0\kitties.pdb
+C:\Users\Jacob\Desktop\kitties-backend\obj\Debug\netcoreapp2.0\kitties.csprojResolveAssemblyReference.cache
+C:\Users\Jacob\Desktop\kitties-backend\obj\Debug\netcoreapp2.0\kitties.csproj.CoreCompileInputs.cache
+C:\Users\Jacob\Desktop\kitties-backend\obj\Debug\netcoreapp2.0\kitties.AssemblyInfoInputs.cache
+C:\Users\Jacob\Desktop\kitties-backend\obj\Debug\netcoreapp2.0\kitties.AssemblyInfo.cs
+C:\Users\Jacob\Desktop\kitties-backend\obj\Debug\netcoreapp2.0\kitties.dll
+C:\Users\Jacob\Desktop\kitties-backend\obj\Debug\netcoreapp2.0\kitties.pdb
