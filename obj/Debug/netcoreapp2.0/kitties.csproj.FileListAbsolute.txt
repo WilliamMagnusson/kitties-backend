@@ -1,0 +1,22 @@
+C:\Users\William Magnusson\Desktop\kod\kitties\bin\Debug\netcoreapp2.0\kitties.deps.json
+C:\Users\William Magnusson\Desktop\kod\kitties\bin\Debug\netcoreapp2.0\kitties.runtimeconfig.json
+C:\Users\William Magnusson\Desktop\kod\kitties\bin\Debug\netcoreapp2.0\kitties.runtimeconfig.dev.json
+C:\Users\William Magnusson\Desktop\kod\kitties\bin\Debug\netcoreapp2.0\kitties.dll
+C:\Users\William Magnusson\Desktop\kod\kitties\bin\Debug\netcoreapp2.0\kitties.pdb
+C:\Users\William Magnusson\Desktop\kod\kitties\obj\Debug\netcoreapp2.0\kitties.csprojResolveAssemblyReference.cache
+C:\Users\William Magnusson\Desktop\kod\kitties\obj\Debug\netcoreapp2.0\kitties.csproj.CoreCompileInputs.cache
+C:\Users\William Magnusson\Desktop\kod\kitties\obj\Debug\netcoreapp2.0\kitties.AssemblyInfoInputs.cache
+C:\Users\William Magnusson\Desktop\kod\kitties\obj\Debug\netcoreapp2.0\kitties.AssemblyInfo.cs
+C:\Users\William Magnusson\Desktop\kod\kitties\obj\Debug\netcoreapp2.0\kitties.dll
+C:\Users\William Magnusson\Desktop\kod\kitties\obj\Debug\netcoreapp2.0\kitties.pdb
+C:\Users\William Magnusson\Desktop\kod\Kitty Projekt\backend\bin\Debug\netcoreapp2.0\kitties.deps.json
+C:\Users\William Magnusson\Desktop\kod\Kitty Projekt\backend\bin\Debug\netcoreapp2.0\kitties.runtimeconfig.json
+C:\Users\William Magnusson\Desktop\kod\Kitty Projekt\backend\bin\Debug\netcoreapp2.0\kitties.runtimeconfig.dev.json
+C:\Users\William Magnusson\Desktop\kod\Kitty Projekt\backend\bin\Debug\netcoreapp2.0\kitties.dll
+C:\Users\William Magnusson\Desktop\kod\Kitty Projekt\backend\bin\Debug\netcoreapp2.0\kitties.pdb
+C:\Users\William Magnusson\Desktop\kod\Kitty Projekt\backend\obj\Debug\netcoreapp2.0\kitties.csprojResolveAssemblyReference.cache
+C:\Users\William Magnusson\Desktop\kod\Kitty Projekt\backend\obj\Debug\netcoreapp2.0\kitties.csproj.CoreCompileInputs.cache
+C:\Users\William Magnusson\Desktop\kod\Kitty Projekt\backend\obj\Debug\netcoreapp2.0\kitties.AssemblyInfoInputs.cache
+C:\Users\William Magnusson\Desktop\kod\Kitty Projekt\backend\obj\Debug\netcoreapp2.0\kitties.AssemblyInfo.cs
+C:\Users\William Magnusson\Desktop\kod\Kitty Projekt\backend\obj\Debug\netcoreapp2.0\kitties.dll
+C:\Users\William Magnusson\Desktop\kod\Kitty Projekt\backend\obj\Debug\netcoreapp2.0\kitties.pdb
