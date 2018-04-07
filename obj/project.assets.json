@@ -12563,11 +12563,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\William Magnusson\\Desktop\\kod\\Kitty Projekt\\backend\\kitties.csproj",
+      "projectUniqueName": "C:\\Users\\William Magnusson\\Desktop\\kod\\Kitty Projekt\\backend\\kitties.csproj",
       "projectName": "kitties",
-      "projectPath": "c:\\Users\\William Magnusson\\Desktop\\kod\\Kitty Projekt\\backend\\kitties.csproj",
+      "projectPath": "C:\\Users\\William Magnusson\\Desktop\\kod\\Kitty Projekt\\backend\\kitties.csproj",
       "packagesPath": "C:\\Users\\William Magnusson\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\William Magnusson\\Desktop\\kod\\Kitty Projekt\\backend\\obj\\",
+      "outputPath": "C:\\Users\\William Magnusson\\Desktop\\kod\\Kitty Projekt\\backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\",

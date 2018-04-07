@@ -26,6 +26,7 @@ namespace Kitties
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<KittiesContext>(opt => opt.UseInMemoryDatabase("KittiesList"));
+            //add user context
 
             services.AddCors(o => o.AddPolicy("AllowAllCors", builder =>
             {
